@@ -1,0 +1,11 @@
+.product {
+	list-style: none;
+}
+.product ul {
+	list-style: none;
+	background-color: aqua;
+
+	display: inline-block;
+	position: relative;
+	padding-right: 2rem;
+}
